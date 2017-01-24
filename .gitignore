@@ -1,0 +1,7 @@
+*.jar
+target/
+.classpath
+
+# eclipse ide
+.project
+.settings/
